@@ -16,14 +16,14 @@ _An in-order list of phrases Martha listens for.  If two or more commands are is
     - Example:  "Please send a <ins>meeting</ins> invitation to my friend, Martha."
 1.  (Vonage) Send SMS:
     - Verbal Commands:  "text/message/sms [to] <_phone number_>"
-    - Example:  "Martha, would you be dear and please <ins>text 8675-309</ins>?"
+    - Example:  "Martha, would you please <ins>text 8675-309</ins>?"
         * Note:  Any Tommy Tutone / Jenny fans out there?  :)
 2.  (Vonage) Running Late / Make (pre-scripted) Voice Call (text-to-speech via answer_url):
     - Verbal Commands:  "late", "tardy", "delayed", and "running behind"
     - Example:  "Hey Martha, can you let my friend know I'm running <ins>late</ins> for our dinner plans?"
 3.  (Vonage)  Make Voice Call (text-to-speech via NCCO):
     - Verbal Commands:  "ring/call/voice note [...] <_phone number_>"
-    - Example:  "Hey Martha, please <ins>call</ins> my friend at <ins>8675-309</ins>!"
+    - Example:  "Hey Martha, please <ins>call</ins> my friend <ins>at 8675-309</ins>!"
 4.  Vonage Headquarters:
     - Verbal Commands:  "Vonage headquarters"
     - Example:  "How can I reach <ins>Vonage Headquarters</ins>, Martha?"
